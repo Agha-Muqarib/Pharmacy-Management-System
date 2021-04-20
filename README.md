@@ -38,3 +38,9 @@ transaction Date.
 * Transaction Details – This table serves as a bridge table between transaction and the
 products on which transactions are made. It’s attributes includes Transaction ID (FK),
 Product ID (FK), Unit Price, Quantity and Discount.
+
+## Entity Relationship Diagram:
+The below diagram depicts the entities (tables) and their relations. The diagram is designed using
+[Draw.io](app.diagrams.net) , which is an online utility to design diagrams.
+
+![ERD](https://github.com/Agha-Muqarib/Pharmacy-Management-System/blob/main/Images/ERD.png)
