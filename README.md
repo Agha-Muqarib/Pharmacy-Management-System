@@ -55,5 +55,5 @@ The below diagram depicts how the data will flow throughout the database and whi
 doing what operation. It is to be noted that it is a level 0 DFD or simply a context diagram which
 would describe or give the overview of while application being modeled or analyzed.
 
-![DFD]()
+![DFD](https://github.com/Agha-Muqarib/Pharmacy-Management-System/blob/main/Images/DFD.png)
 
