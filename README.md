@@ -47,33 +47,5 @@ The below diagram depicts the entities (tables) and their relations. The diagram
 
 ## Functional Dependencies:
 Following are the functional dependencies of attributes in each table:
-
-* Customer (Customer ID, Customer Name, Customer Phone number)
-Customer ID Customer Name
-Customer ID Customer Phone number
-* Supplier (Supplier ID, Supplier Name, Company Name, Phone No)
-Supplier ID Supplier Name
-Supplier ID Company Name
-Company Name Company Address
-Supplier ID Phone No
-* Category (Category ID, Category Name, Description)
-Category ID  Category Name
-Category Name Description
-* Product (Product ID, Product Name, Unit Price, Product Quantity (stock))
-Product ID  Product Name
-Product ID  Unit Price
-Product ID  Product Quantity (stock)
-* Staff (Staff ID, Staff Name, Hire Date, Job, Staff Phone, Address, Salary, Commission)
-Staff ID  Staff Name
-Staff ID  Hire Date
-Staff ID  Job
-Staff Name Staff Phone
-Staff Name Address
-Staff ID Salary
-Staff ID Commission
-* Transaction (Transaction ID, Transaction Date, Quantity, Discount)
-Transaction ID Transaction Date
-Product ID, Transaction ID Quantity
-Transaction ID Discount
-Transaction ID Customer ID
-Transaction ID Staff ID
+![FD1]()
+![FD2]()
